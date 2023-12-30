@@ -1,0 +1,21 @@
+* {
+    font-family: Garamond, Verdana, Arial;
+    background-color: aliceblue;
+}
+
+body {
+    margin: 20px;
+}
+
+h1 {
+    font-size: 42px;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+img {
+    border-radius: 10px;
+}
